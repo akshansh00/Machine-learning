@@ -1,5 +1,5 @@
 Application url:
-[HousingPredictor]()
+()
 
 ## Start Machine Learning project.
 
